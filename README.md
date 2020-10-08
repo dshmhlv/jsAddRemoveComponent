@@ -1,2 +1,2 @@
 ##Simple add remove component using JS
-Use the two UL tags and place them accordingly and style them. Create new <li> tags inside app.js
+Use the two UL tags and place them accordingly and style them. Create new list tags inside app.js follwing the template.
