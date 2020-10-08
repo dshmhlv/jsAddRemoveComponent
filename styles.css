@@ -1,0 +1,11 @@
+html,body{
+    background-color: darkgrey;
+}
+
+.selectedCourses{
+    background-color: whitesmoke;
+    font-size: 19px;
+}
+.courseList{
+    background-color: #f3e8ec;
+}
